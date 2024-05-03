@@ -56,7 +56,6 @@ import att from './projects/att.jpg';
 import dat from './projects/dat.jpg';
 
 import kirlog from './logo/kirlog.png';
-import kirimg from './logo/kirimg.jpg';
 
 import kirlogo1 from './logo/kirlogo1.png';
 
