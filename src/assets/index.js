@@ -125,7 +125,6 @@ export {
   Power_BI,
   att,
   dat,
-  kirimg,
   kirlog,
   kirlogo1,
   car,
