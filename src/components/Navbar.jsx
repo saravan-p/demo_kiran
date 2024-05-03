@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { styles } from '../styles';
 import { navLinks } from '../constants';
 import { close, menu, logo, logotext } from '../assets';
-import { kirimg,kirlog } from '../assets';
+import { kirlog } from '../assets';
 import { kirlogo1 } from '../assets';
 
 const Navbar = () => {
